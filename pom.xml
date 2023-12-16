@@ -18,7 +18,7 @@
         <!-- Maven plugins -->
         <maven-compiler-plugin.version>3.7.0</maven-compiler-plugin.version>
         <!-- Tor browser version 13.0.6; tor binary version: 0.4.8.9-->
-        <tor-binary.version>09d93d2537d14cdab34a8949c5fc81436b14fccc</tor-binary.version>
+        <tor-binary.version>0.4.8.9</tor-binary.version>
     </properties>
 
     <modules>
